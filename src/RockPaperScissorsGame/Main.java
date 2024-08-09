@@ -17,7 +17,6 @@ class compare{
         System.out.println("1 For Rock");
         System.out.println("2 For Paper");
         System.out.println("3 For Scissor");
-        System.out.println("4 For Exit The Game");
         System.out.println("Please, Enter Your Choice Above Them");
     }
     void collectFromPlayer(){
