@@ -74,6 +74,7 @@ public class Main{
     }
     public static void main(String[] args) {
         System.out.println("Welcome To Tic-Tac-Toe Game!");
+        System.out.println("------- Game Started -------");
         char[][] ar = {{'-','|','-','|','-'},{'-','|','-','|','-'},{'-','|','-','|','-'}};
         printBoard(ar);
         while(true) {
